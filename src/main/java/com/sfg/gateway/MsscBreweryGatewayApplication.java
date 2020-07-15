@@ -1,4 +1,4 @@
-package com.sfg.gateway.msscbrewerygateway;
+package com.sfg.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
