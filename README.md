@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/Shterneregen/mssc-brewery-gateway.svg?style=svg)](https://circleci.com/gh/Shterneregen/mssc-brewery-gateway)
 # SFG Brewery Gateway Service
 
 | Services                                                                                   |
