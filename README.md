@@ -1,7 +1,7 @@
 [![CircleCI](https://circleci.com/gh/Shterneregen/mssc-brewery-gateway.svg?style=svg)](https://circleci.com/gh/Shterneregen/mssc-brewery-gateway)
 # SFG Brewery Gateway Service
 
-| Services                                                                                   |Port|
+| Service                                                                                    |Port|
 | ------------------------------------------------------------------------------------------ |----|
 | [MSSC Beer Service](https://github.com/Shterneregen/mssc-beer-service)                     |8080|
 | [MSSC Beer Order Service](https://github.com/Shterneregen/mssc-beer-service)               |8081|
